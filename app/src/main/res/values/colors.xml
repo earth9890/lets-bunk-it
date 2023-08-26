@@ -1,0 +1,16 @@
+<resources>
+    <color name="purple_200">#FF6200EE</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <color name="colorPrimary">#FF6200EE</color> <!-- Use the same purple_500 color -->
+    <color name="colorPrimaryDark">#FF3700B3</color> <!-- Use the same purple_700 color -->
+    <color name="colorAccent">#FF03DAC5</color> <!-- Use the same teal_200 color -->
+    <color name="red">#FF6200EE</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="pink">#FFF469A9</color> <!-- Updated pink color -->
+    <color name="blue">#FF88BEF5</color> <!-- Updated blue color -->
+</resources>
